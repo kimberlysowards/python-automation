@@ -1,3 +1,10 @@
+### Kim's Notes
+---
+1. Use Ctrl+` to open up Command Line inside VSCode
+2. Install dependencies: `pip install`, and more...
+3. More notes.. to come...
+
+
 # Welcome to the python-automation Repo!
 This is a public repo that is meant for anyone to join in and collaborate on. The goal is simple: Create a Test Automation Framework to test as many of the League of Legends websites like lolesports.com.
 
