@@ -4,6 +4,12 @@
 2. Install dependencies: `pip install`, and more...
 3. More notes.. to come...
 
+### How to Save Changes
+1. Make change to any file
+2. Check git gui
+
+
+
 
 # Welcome to the python-automation Repo!
 This is a public repo that is meant for anyone to join in and collaborate on. The goal is simple: Create a Test Automation Framework to test as many of the League of Legends websites like lolesports.com.
