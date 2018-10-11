@@ -7,6 +7,11 @@
 ### How to Save Changes
 1. Make change to any file
 2. Check git gui
+3. Look for the changes tab, then open it
+4. Add a description if needed
+5. Commit changes (below description)
+6. Find the Push tab and push to origin master
+
 
 
 
